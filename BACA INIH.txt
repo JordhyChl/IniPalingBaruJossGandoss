@@ -1,0 +1,19 @@
+Beh begini ya urutan nyaa
+
+//Troubleshoot
+  //Mobil Mogok
+    //Periksa Aki
+    //Periksa Kabel Busi
+    //Periksa Sekring
+  //Ban Kempis
+  //Temperatur Naik
+  
+//Service&Tips
+  //Service
+  //Tips
+    //Tips Satu
+    //Tips Dua
+    
+//Workshop
+
+//Games
